@@ -1,5 +1,5 @@
 #!/bin/bash
-id -un
+id -un /n
 
 
 
