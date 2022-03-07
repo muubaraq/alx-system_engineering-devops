@@ -1,2 +1,2 @@
 #/bin/bash
-echo "Best School" > \\*\\\\\'\""Best School"\"\\\'\\\\*$\\?\\*\\*\\*\\*\\*:\)
+head -n 3 $1 > draft_file && tail -n 1 draft_file 
