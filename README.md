@@ -1,1 +1,1 @@
-A repo containing directories of system development operations
+A repository for basic shell scripting commands and executables.
